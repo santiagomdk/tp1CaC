@@ -1,0 +1,103 @@
+.nav-link-nav {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: white;
+    text-decoration: none;
+}
+.nav-link-green {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: green;
+    text-decoration: none
+  }
+
+.container-form{
+    margin-top: 25px;
+}
+
+footer.bg-primary {
+    background-color: #151b4d;
+  }
+.img-fluid-alto{
+    width: 1350px;
+    height: 550px;
+}
+.texto{
+    position: absolute;
+    top: 42%;
+    right: 0;
+    background-color: transparent;
+    padding: 20px;
+    text-align: end;
+    color: aliceblue;
+    
+}
+.boton{
+    position: absolute;
+    top: 68%;
+    right: 0;
+    background-color: transparent;
+    padding: 20px;
+}
+.boton-quiero{
+    color: aliceblue;
+    background-color: transparent;
+    border-bottom-color: transparent;
+}
+.boton-quiero:hover{
+    background-color: transparent;
+}
+.boton-comprar{
+    background-color: green;
+    border-color: transparent;
+}
+.boton-comprar:hover{
+    background-color: green;
+    border-color: transparent;
+}
+.boton-comprar:active{
+    background-color: green;
+}
+.texto-descripcion{
+    position: absolute; 
+    top: 80%; 
+    right: 0; 
+    transform: translate(-50%, -50%); 
+    text-align: end; 
+    width: 400px;
+    background-color:transparent; 
+    color: white; 
+    
+
+}
+.color-col{
+    background-color: rgb(29, 28, 28);
+}
+.text-color-col{
+    color: rgb(255, 255, 255);
+
+}
+.btn-conoce{
+    background-color: transparent;
+}
+
+.text-cono{
+    text-align: center;
+}
+.text-ora{
+    text-align: center;
+}
+.card{
+    max-width: 300px;
+}
+.card img{
+    max-width: 100%;
+    height: auto;
+}
+.control-form{
+    width: 270px;
+    height: 32px;
+}
+.custom-bg{
+    background-color: #171e5f;
+}
